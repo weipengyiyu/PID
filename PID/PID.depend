@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600248735 source:e:\my_work\归纳\总结\pid控制算法总结\pid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
